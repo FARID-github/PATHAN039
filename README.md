@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PATHAN039
+- 👋 Hi, I’m @PATHAN FARID KHAN
 - 👀 I’m interested in learn full stack web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
